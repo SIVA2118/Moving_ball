@@ -11,4 +11,7 @@ This project features a simple *Moving Ball* created using HTML, CSS, and JavaSc
 - *CSS3* for styling and creating visual effects.
 - *JavaScript* for managing the ball's movement, event handling, and animation logic.
 
-![moving_ball](https://github.com/user-attachments/assets/55d99da8-a3b0-4e4f-8ee2-08d0c91da697)
+
+
+![moving_ball](https://github.com/user-attachments/assets/7f65df7d-7d71-4a5b-a56c-8d0fcf123c98)
+
